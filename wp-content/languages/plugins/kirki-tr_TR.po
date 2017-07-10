@@ -1,0 +1,477 @@
+# Translation of Plugins - Kirki - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Kirki - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 10:24:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Kirki - Stable (latest release)\n"
+
+#: includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr "Metin düzenleyiciyi değiştir"
+
+#: includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr "Metin düzenleyiciyi kapat"
+
+#: includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr "Metin düzenleyiciyi aç"
+
+#: includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr "Hex değeri"
+
+#: includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr "Hiç dosya seçilmedi"
+
+#: includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr "Dosya değiştir"
+
+#: includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr "Dosya ekle"
+
+#: includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr "satır"
+
+#: includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr "Yeni ekle"
+
+#: includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr "Sayfa seç"
+
+#: includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr "İlk harf"
+
+#: includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr "Tümü küçük harf"
+
+#: includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr "Tümü büyük harf"
+
+#: includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr "Büyük harfe çevir"
+
+#: includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr "Hiçbiri"
+
+#: includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr "Metin dönüşümü"
+
+#: includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr "Metin hizalama"
+
+#: includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr "İki yana yasla"
+
+#: includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr "Orta"
+
+#: includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr "%s sıfırla"
+
+#: includes/class-kirki-l10n.php:200
+#: includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "Geri dön"
+
+#: includes/class-kirki-l10n.php:199
+#: includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "Bu bölümü açmak için enter tuşuna basın"
+
+#: includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr "Limit: %s satır"
+
+#: includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr "Geçersiz değer"
+
+#: includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr "Aşırı kalın 900 italik"
+
+#: includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr "Aşırı kalın 900"
+
+#: includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr "Çok kalın 800 italik"
+
+#: includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr "Çok kalın 800"
+
+#: includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr "Kalın 700 italik"
+
+#: includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr "Kalın 700"
+
+#: includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr "Yarı kalın 600 italik"
+
+#: includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr "Yarı kalın 600"
+
+#: includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr "Az kalın 500 italik"
+
+#: includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr "Az kalın 500"
+
+#: includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr "Normal 400 italik"
+
+#: includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr "Az ince 300 italik"
+
+#: includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr "Az ince 300"
+
+#: includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr "İnce 200 italik"
+
+#: includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr "İnce 200"
+
+#: includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr "Aşırı ince 100 italik"
+
+#: includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr "Aşırı ince 100"
+
+#: includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr "Boşluk bırakma"
+
+#: includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr "Yükseklik"
+
+#: includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr "Boyut"
+
+#: includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr "Alt küme"
+
+#: includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr "Varyant"
+
+#: includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr "Bir yazı tipi seçin"
+
+#: includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr "Yazı tipi stili"
+
+#: includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr "Görsel seçilmedi"
+
+#: includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr "Kaldır"
+
+#: includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr "Görseli değiştir"
+
+#: includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr "Görsel ekle"
+
+#: includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr "Renk"
+
+#: includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr "Sol"
+
+#: includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr "Alt"
+
+#: includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr "Üst"
+
+#: includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr "Harf boşluğu"
+
+#: includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "Yazı boyutu"
+
+#: includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "Tayca"
+
+#: includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "Telugu"
+
+#: includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "Tamilce"
+
+#: includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "Guceratça"
+
+#: includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "Bengalce"
+
+#: includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "Arapça"
+
+#: includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "İbranice"
+
+#. Author URI of the plugin/theme
+msgid "http://aristeides.com"
+msgstr "http://aristeides.com"
+
+#. Author of the plugin/theme
+msgid "Aristeides Stathopoulos"
+msgstr "Aristeides Stathopoulos"
+
+#. Description of the plugin/theme
+msgid "The ultimate WordPress Customizer Toolkit"
+msgstr "En üst düzey WordPress özelleştirici araç takımı"
+
+#. Plugin URI of the plugin/theme
+msgid "http://kirki.org"
+msgstr "http://kirki.org"
+
+#. Plugin Name of the plugin/theme
+msgid "Kirki Toolkit"
+msgstr "Kirki alet takımı"
+
+#: includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr "Yazı tipi genişliği"
+
+#: includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "Yazı tipi"
+
+#: includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+#: includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "Genişletilmiş latince"
+
+#: includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "Latince"
+
+#: includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "Kmerce"
+
+#: includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "Genişletilmiş yunanca"
+
+#: includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "Yunanca"
+
+#: includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "Devanagarice"
+
+#: includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "Genişletilmiş kirilce"
+
+#: includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "Kirilce"
+
+#: includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "Tümü"
+
+#: includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "Kapalı"
+
+#: includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "Açık"
+
+#: includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "Arka plan saydamlığı"
+
+#: includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "Arka plan pozisyonu"
+
+#: includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "Orta alt"
+
+#: includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "Orta orta"
+
+#: includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "Orta üst"
+
+#: includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "Sağ alt"
+
+#: includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "Sağ orta"
+
+#: includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "Sağ üst"
+
+#: includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "Sol alt"
+
+#: includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "Sol orta"
+
+#: includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "Sol üst"
+
+#: includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "Arka plan eki"
+
+#: includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "Kaydır"
+
+#: includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "Sabitlenmiş"
+
+#: includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "Arka plan boyutu"
+
+#: includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "İçine al"
+
+#: includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "Kapla"
+
+#: includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "Arka plan tekrarı"
+
+#: includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "Devral"
+
+#: includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "Dikey tekrar et"
+
+#: includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "Yatay tekrar et"
+
+#: includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "Tekrar et"
+
+#: includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "Tekrar etme"
+
+#: includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "Arka plan rengi"
